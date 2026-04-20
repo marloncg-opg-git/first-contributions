@@ -3041,4 +3041,4 @@ Oiloo
 - [Berlin Brown](https://github.com/berlinbrown/)
 - Surbhi
 - asuka-in-2024
-- (Marlon Gonzales) ()
+- [Marlon Gonzales] (https://github.com/marloncg-opg-git/first-contributions)
